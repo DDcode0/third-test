@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #444;
 }
 
 
@@ -15,9 +14,11 @@ html{
     flex-wrap: wrap;
     width: 90vw;
     margin: 2rem auto;
-    color: #fff;
-    font-size: 5rem;
 }
+
+
+
+
 
 .pag--header{
     background-color: #f22;
