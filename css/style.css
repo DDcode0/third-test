@@ -33,19 +33,19 @@ span {
 }
 
 .pag--main{ 
-    background-color: #f3312233;
+    background-color: #f3312999;
     width: 60%;
     height: 40rem;
 }
 
 .pag--aside{
     width:40% ;
-    background-color: #12344f;
+    background-color: #1299aa;
     height: 40rem;
 }
 
 .pag--footer{
     height: 10rem;
     width:100%;
-    background-color: #12ff;
+    background-color: #aabb33;
 }
