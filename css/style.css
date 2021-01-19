@@ -27,25 +27,25 @@ span {
 
 
 .pag--header{
-    background-color: #f22;
+    background-color: #515A5A;
     width: 100%;
     height: 20rem;
 }
 
 .pag--main{ 
-    background-color: #f3312233;
+    background-color: #E9967A;
     width: 60%;
     height: 40rem;
 }
 
 .pag--aside{
     width:40% ;
-    background-color: #12344f;
+    background-color: #3B3F56;
     height: 40rem;
 }
 
 .pag--footer{
     height: 10rem;
     width:100%;
-    background-color: #12ff;
+    background-color: #E67E22;
 }
